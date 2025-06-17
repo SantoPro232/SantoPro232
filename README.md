@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @SantoPro232
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 ¡Hola! Soy Santo, desarrollador apasionado por el código limpio y las ideas creativas.
 
-<!---
-SantoPro232/SantoPro232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Me gusta crear proyectos útiles y visualmente atractivos con:
+
+    Python para automatización y lógica backend
+
+    HTML & CSS para darle forma y estilo a la web
+
+    JavaScript para hacerlo todo interactivo
+
+🚀 Siempre estoy experimentando, aprendiendo algo nuevo y construyendo cosas que solucionen problemas reales o simplemente sean divertidas de usar.
+
+🛠️ Algunos de mis proyectos combinan lo mejor del diseño con la funcionalidad, desde herramientas simples hasta experiencias completas en la web.
+
+📚 Abierto a colaborar, compartir y mejorar con la comunidad.
+¡Gracias por visitar mi perfil!
